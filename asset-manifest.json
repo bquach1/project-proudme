@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/project-proudme/static/css/main.e9cea5de.css",
-    "main.js": "/project-proudme/static/js/main.0f3d1657.js",
+    "main.css": "/project-proudme/static/css/main.1a583c75.css",
+    "main.js": "/project-proudme/static/js/main.751a2f2b.js",
     "static/js/787.971ae85d.chunk.js": "/project-proudme/static/js/787.971ae85d.chunk.js",
     "static/media/background.png": "/project-proudme/static/media/background.1da11134180113acb45f.png",
     "static/media/pet_room_icon.png": "/project-proudme/static/media/pet_room_icon.2307a7d5519c0c42b098.png",
@@ -11,12 +11,12 @@
     "static/media/pet_store_icon.png": "/project-proudme/static/media/pet_store_icon.0ac658b0816c0576aac6.png",
     "static/media/mini_games_icon.png": "/project-proudme/static/media/mini_games_icon.2b5b50f94a0a8fcbc4d9.png",
     "index.html": "/project-proudme/index.html",
-    "main.e9cea5de.css.map": "/project-proudme/static/css/main.e9cea5de.css.map",
-    "main.0f3d1657.js.map": "/project-proudme/static/js/main.0f3d1657.js.map",
+    "main.1a583c75.css.map": "/project-proudme/static/css/main.1a583c75.css.map",
+    "main.751a2f2b.js.map": "/project-proudme/static/js/main.751a2f2b.js.map",
     "787.971ae85d.chunk.js.map": "/project-proudme/static/js/787.971ae85d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9cea5de.css",
-    "static/js/main.0f3d1657.js"
+    "static/css/main.1a583c75.css",
+    "static/js/main.751a2f2b.js"
   ]
 }
